@@ -12,6 +12,4 @@
 
 🔧 If you're interested in front-end development, web design, or have any questions about my projects, feel free to explore my repositories and get in touch. Let's connect and create amazing web experiences together!
 
-📫 You can reach me via email at [Your Email] or connect with me on LinkedIn [Your LinkedIn Profile].
-
 Thanks for visiting, and happy coding! 🌟
